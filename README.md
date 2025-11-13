@@ -303,7 +303,7 @@ O princípio é universal: **fala a língua do seu burro**.
 
 ---
 
-*Metodologia BURROS FIRST™ - Transformando desenvolvedores arrogantes em criadores úteis desde 2024.*
+*Metodologia BURROS FIRST™ - Transformando desenvolvedores arrogantes em criadores úteis desde 2025.*
 
 *"Se funciona para burros, funciona para todos."*
 
